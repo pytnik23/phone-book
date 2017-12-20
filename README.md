@@ -1,4 +1,4 @@
-[My Money App](https://pytnik23.github.io/my-money-app/)
+[Phone Book](https://pytnik23.github.io/phone-book/)
 - - -
 Used technologies:
 - React
